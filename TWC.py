@@ -31,7 +31,7 @@ class ProductCalculator:
             "White Widow": 33,
             "Blue Dream": 55,
             "Girl Scout Cookie": 60,
-            "Purple Joints": 200,
+            "Purple Joints": 0,
         }
 
         # Shopping cart
